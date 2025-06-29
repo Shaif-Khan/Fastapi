@@ -1,3 +1,4 @@
+<img src="https://miro.medium.com/v2/resize:fit:1120/1*5PqDpGM-gpTzIjtXSYjgFw.gif">
 🚀 I BUILT A SECURE USER & CLIENT API SERVICE SYSTEM USING FASTAPI!
 
 Hello connections! 👋
